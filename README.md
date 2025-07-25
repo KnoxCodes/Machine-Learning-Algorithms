@@ -6,4 +6,4 @@ This repository contains implementations of fundamental Machine Learning algorit
 
 ### 1. Linear Regression
 ### 2. Perceptron
-### 1. Adaline
+### 3. Adaline
