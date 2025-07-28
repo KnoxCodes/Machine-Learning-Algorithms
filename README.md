@@ -7,3 +7,4 @@ This repository contains implementations of fundamental Machine Learning algorit
 ### 1. Linear Regression
 ### 2. Perceptron
 ### 3. Adaline
+### 4. Perceptron using Sikit Learn
